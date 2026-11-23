@@ -1,6 +1,10 @@
 # BTC Race Bot — btc-race-24h-20261123-0511
 
-Long-only momentum bot trading cbBTC/USDC on 1-minute bars.
+[![make.fun](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/aahcoba8-maker/makefun-btc-race-20261123/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/aahcoba8-maker/makefun-btc-race-20261123/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+
+Long-only momentum bot trading cbBTC/USDC on 1-minute bars. Built for the [make.fun bounty](https://make.fun/bounty/btc-race-24h-20261123-0511).
 
 ## Strategy
 
